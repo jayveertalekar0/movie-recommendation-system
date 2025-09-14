@@ -85,6 +85,9 @@ Then open in your browser at 👉 http://localhost:8501
 
 
 ---
+## 🎯 Live Demo  
+👉 [Movie Recommender on Render](https://movies-recommendation-system-0.onrender.com))
+---
 
 📝 Future Improvements
 
